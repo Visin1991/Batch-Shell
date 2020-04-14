@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E00-68B2
+
+ Directory of C:\Users\admin\Desktop\Arm_debug\Test
+
+04/13/2020  04:43 PM    <DIR>          .
+04/13/2020  04:43 PM    <DIR>          ..
+04/13/2020  04:43 PM                 0 lists.txt
+04/13/2020  04:43 PM    <DIR>          New folder
+04/13/2020  04:42 PM               218 WriteCurrentDir.bat
+               2 File(s)            218 bytes
+               3 Dir(s)  62,501,003,264 bytes free
